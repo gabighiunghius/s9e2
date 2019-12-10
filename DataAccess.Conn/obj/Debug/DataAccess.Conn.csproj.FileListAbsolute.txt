@@ -1,0 +1,8 @@
+C:\wantsome\Homeworks9e2\DataAccess.Conn\bin\Debug\DataAccess.Conn.dll
+C:\wantsome\Homeworks9e2\DataAccess.Conn\bin\Debug\DataAccess.Conn.pdb
+C:\wantsome\Homeworks9e2\DataAccess.Conn\obj\Debug\DataAccess.Conn.csprojAssemblyReference.cache
+C:\wantsome\Homeworks9e2\DataAccess.Conn\obj\Debug\DataAccess.Conn.dll
+C:\wantsome\Homeworks9e2\DataAccess.Conn\obj\Debug\DataAccess.Conn.pdb
+C:\wantsome\Homeworks9e2\DataAccess.Conn\bin\Debug\Newtonsoft.Json.dll
+C:\wantsome\Homeworks9e2\DataAccess.Conn\bin\Debug\Newtonsoft.Json.xml
+C:\wantsome\Homeworks9e2\DataAccess.Conn\obj\Debug\DataAccess.Conn.csproj.CopyComplete

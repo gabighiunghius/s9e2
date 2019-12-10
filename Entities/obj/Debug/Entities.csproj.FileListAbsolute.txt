@@ -1,0 +1,10 @@
+C:\wantsome\Homeworks9e2\Entities\bin\Debug\Entities.dll
+C:\wantsome\Homeworks9e2\Entities\bin\Debug\Entities.pdb
+C:\wantsome\Homeworks9e2\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\wantsome\Homeworks9e2\Entities\obj\Debug\Entities.dll
+C:\wantsome\Homeworks9e2\Entities\obj\Debug\Entities.pdb
+C:\wantsome\Homeworks9e2\Entities\bin\Debug\DataAccess.Conn.dll
+C:\wantsome\Homeworks9e2\Entities\bin\Debug\DataAccess.Conn.pdb
+C:\wantsome\Homeworks9e2\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\wantsome\Homeworks9e2\Entities\bin\Debug\Newtonsoft.Json.dll
+C:\wantsome\Homeworks9e2\Entities\bin\Debug\Newtonsoft.Json.xml

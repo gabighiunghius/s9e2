@@ -1,0 +1,13 @@
+C:\wantsome\Homeworks9e2\Homeworks9e2\obj\Debug\SummaryBookApp.csprojAssemblyReference.cache
+C:\wantsome\Homeworks9e2\Homeworks9e2\bin\Debug\Homeworks9e2.exe.config
+C:\wantsome\Homeworks9e2\Homeworks9e2\bin\Debug\Homeworks9e2.exe
+C:\wantsome\Homeworks9e2\Homeworks9e2\bin\Debug\Homeworks9e2.pdb
+C:\wantsome\Homeworks9e2\Homeworks9e2\bin\Debug\BookRepository.dll
+C:\wantsome\Homeworks9e2\Homeworks9e2\bin\Debug\DataAccess.Conn.dll
+C:\wantsome\Homeworks9e2\Homeworks9e2\bin\Debug\Entities.dll
+C:\wantsome\Homeworks9e2\Homeworks9e2\bin\Debug\BookRepository.pdb
+C:\wantsome\Homeworks9e2\Homeworks9e2\bin\Debug\DataAccess.Conn.pdb
+C:\wantsome\Homeworks9e2\Homeworks9e2\bin\Debug\Entities.pdb
+C:\wantsome\Homeworks9e2\Homeworks9e2\obj\Debug\SummaryBookApp.csproj.CopyComplete
+C:\wantsome\Homeworks9e2\Homeworks9e2\obj\Debug\Homeworks9e2.exe
+C:\wantsome\Homeworks9e2\Homeworks9e2\obj\Debug\Homeworks9e2.pdb

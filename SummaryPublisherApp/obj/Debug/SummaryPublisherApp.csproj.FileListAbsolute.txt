@@ -1,0 +1,15 @@
+C:\wantsome\Homeworks9e2\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.exe.config
+C:\wantsome\Homeworks9e2\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.exe
+C:\wantsome\Homeworks9e2\SummaryPublisherApp\bin\Debug\SummaryPublisherApp.pdb
+C:\wantsome\Homeworks9e2\SummaryPublisherApp\bin\Debug\BookRepository.dll
+C:\wantsome\Homeworks9e2\SummaryPublisherApp\bin\Debug\Entities.dll
+C:\wantsome\Homeworks9e2\SummaryPublisherApp\bin\Debug\DataAccess.Conn.dll
+C:\wantsome\Homeworks9e2\SummaryPublisherApp\bin\Debug\BookRepository.pdb
+C:\wantsome\Homeworks9e2\SummaryPublisherApp\bin\Debug\Entities.pdb
+C:\wantsome\Homeworks9e2\SummaryPublisherApp\bin\Debug\DataAccess.Conn.pdb
+C:\wantsome\Homeworks9e2\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.csprojAssemblyReference.cache
+C:\wantsome\Homeworks9e2\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.csproj.CopyComplete
+C:\wantsome\Homeworks9e2\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.exe
+C:\wantsome\Homeworks9e2\SummaryPublisherApp\obj\Debug\SummaryPublisherApp.pdb
+C:\wantsome\Homeworks9e2\SummaryPublisherApp\bin\Debug\Newtonsoft.Json.dll
+C:\wantsome\Homeworks9e2\SummaryPublisherApp\bin\Debug\Newtonsoft.Json.xml

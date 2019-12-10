@@ -1,0 +1,12 @@
+C:\wantsome\Homeworks9e2\BookRepository\bin\Debug\BookRepository.dll
+C:\wantsome\Homeworks9e2\BookRepository\bin\Debug\BookRepository.pdb
+C:\wantsome\Homeworks9e2\BookRepository\bin\Debug\DataAccess.Conn.dll
+C:\wantsome\Homeworks9e2\BookRepository\bin\Debug\Entities.dll
+C:\wantsome\Homeworks9e2\BookRepository\bin\Debug\DataAccess.Conn.pdb
+C:\wantsome\Homeworks9e2\BookRepository\bin\Debug\Entities.pdb
+C:\wantsome\Homeworks9e2\BookRepository\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\wantsome\Homeworks9e2\BookRepository\obj\Debug\DataAccess.csproj.CopyComplete
+C:\wantsome\Homeworks9e2\BookRepository\obj\Debug\BookRepository.dll
+C:\wantsome\Homeworks9e2\BookRepository\obj\Debug\BookRepository.pdb
+C:\wantsome\Homeworks9e2\BookRepository\bin\Debug\Newtonsoft.Json.dll
+C:\wantsome\Homeworks9e2\BookRepository\bin\Debug\Newtonsoft.Json.xml
